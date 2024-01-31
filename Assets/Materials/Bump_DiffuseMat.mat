@@ -98,7 +98,7 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
-    - _myBright: 5.9
+    - _myBright: 1.3
     - _myScaleSlider: 1.61
     - _mySlider: 2
     m_Colors:
